@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author reztib
- * @brief beep
+ * @brief beeps
  * @version 1.0
  * @date 2024-09-08
  * 
