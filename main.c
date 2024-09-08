@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author reztib
+ * @brief beep
+ * @version 1.0
+ * @date 2024-09-08
+ * 
+ * @copyright Copyright (c) 2024
+ * 
+ */
 #include <stdio.h>
 #include <unistd.h>
 
