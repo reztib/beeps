@@ -6,16 +6,16 @@
 3. Beeps
 
 ## Languages done
-C &#x2705; Green Checkmark
-C++ &#x2705; Green Checkmark
-Dart 
-Go 
-Haskell 
-Java &#x2705; Green Checkmark
-Kotlin 
-Lua 
-Python &#x2705; Green Checkmark
-R 
-Ruby 
-Rust 
-Swift 
+C &#x2705; <br>
+C++ &#x2705; <br>
+Dart <br>
+Go <br>
+Haskell <br>
+Java &#x2705; <br>
+Kotlin <br>
+Lua <br>
+Python &#x2705; <br>
+R <br>
+Ruby <br>
+Rust <br>
+Swift <br>
