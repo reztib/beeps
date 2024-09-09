@@ -8,14 +8,13 @@
 ## Languages done
 C &#x2705; <br>
 C++ &#x2705; <br>
-Dart <br>
-Go <br>
-Haskell <br>
+Dart &#x2705; <br>
+Go &#x2705; <br>
+Haskell &#x2705; <br>
 Java &#x2705; <br>
-Kotlin <br>
-Lua <br>
+Kotlin &#x2705; <br>
+Lua &#x2705; <br>
 Python &#x2705; <br>
-R <br>
-Ruby <br>
-Rust <br>
-Swift <br>
+R &#x2705; <br>
+Ruby &#x2705; <br>
+Rust &#x2705; <br>
